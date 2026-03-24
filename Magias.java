@@ -7,7 +7,7 @@ public class Magias {
     private int curaMagia;
 
     static Magias espadaMagica = new Magias("Espada Magica", "Corte", 1, 8, 0);
-    static Magias cuspeAcido = new Magias("Cupe Acido", "Quimico", 2, 6, 0);
+    static Magias cuspeAcido = new Magias("Cuspe Acido", "Quimico", 2, 6, 0);
     static Magias curarFerimentos = new Magias("Curar Ferimentos", "Cura", 3, 0, 6);
     static Magias raioCongelante = new Magias("Raio Congelante", "Frio", 3, 8, 0);
     static Magias bolaDeFogo = new Magias("Bola de Fogo", "Fogo", 8, 6, 0);

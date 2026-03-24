@@ -22,7 +22,7 @@ public class Classe {
     static Classe mago = new Classe("Mago", 3, 18, 13, Armas.cajado);
     static Classe ranger = new Classe("Ranger", 3, 22, 16, Armas.arco);
     
-    //funcao que escolhe a classe
+    //metodo que escolhe a classe
     static Classe escolherClasse(int opcao) {
         switch(opcao) {
             case 1:
