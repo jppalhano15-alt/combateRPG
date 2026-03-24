@@ -1,2 +1,2 @@
 # combateRPG
-Simulador de combate de RPG [POO]
+Simulador de combate de RPG [Estudo de POO]
